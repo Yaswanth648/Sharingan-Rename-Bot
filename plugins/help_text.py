@@ -109,12 +109,12 @@ async def text(bot, update):
                         InlineKeyboardButton("❗ Help", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('Support Channel', url='https://t.me/Compass_Botz'),
-                    InlineKeyboardButton('Feedback', url='https://t.me/Dlaize')
+                    InlineKeyboardButton('Support Channel', url='https://t.me/TeluguToonStreet),
+                    InlineKeyboardButton('Feedback', url='https://t.me/ValT_Aio')
                 ],
                 [
-                    InlineKeyboardButton('Anime Index', url='https://t.me/Cartoon_seriesz'),
-                    InlineKeyboardButton('Source', url='https://github.com/dakshkohli23/Sharingan-Rename-Bot')
+                    InlineKeyboardButton('Anime Index', url='https://t.me/TeluguToonstreet),
+                    InlineKeyboardButton('Source', url='https://github.com/Yaswanth648/Sharingan-Rename-Bot')
                 ]
             ]
         ),
