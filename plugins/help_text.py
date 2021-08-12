@@ -109,7 +109,7 @@ async def text(bot, update):
                         InlineKeyboardButton("❗ Help", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('Support Channel', url='https://t.me/TeluguToonStreet),
+                    InlineKeyboardButton('Support Channel', url='https://t.me/TeluguToonStreet'),
                     InlineKeyboardButton('Feedback', url='https://t.me/ValT_Aio')
                 ],
                 [
