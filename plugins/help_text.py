@@ -113,7 +113,7 @@ async def text(bot, update):
                     InlineKeyboardButton('Feedback', url='https://t.me/ValT_Aio')
                 ],
                 [
-                    InlineKeyboardButton('Anime Index', url='https://t.me/TeluguToonstreet),
+                    InlineKeyboardButton('Anime Index', url='https://t.me/TeluguToonstreet'),
                     InlineKeyboardButton('Source', url='https://github.com/Yaswanth648/Sharingan-Rename-Bot')
                 ]
             ]
