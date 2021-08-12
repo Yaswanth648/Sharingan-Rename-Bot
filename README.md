@@ -30,10 +30,10 @@ An Multi purpose Bot Which Can :-
 
 ### 🚀 Heroku Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dakshkohli23/Sharingan-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yaswanth648/Sharingan-Rename-Bot)
 
 If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Us Through [Telegram ](https://telegram.dog/Dlaize) 
-Also Support Our Channel [Compass Bots](https://telegram.dog/compass_botz) 
+Also Support Our Channel [TeluguToonStreet](https://telegram.dog/TeluguToonStreet) 
 
 ### Commands
 ```
@@ -48,4 +48,4 @@ Also Support Our Channel [Compass Bots](https://telegram.dog/compass_botz)
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe)
+* [Yaswanth](https://telegram.dog/GingkaHangane)
