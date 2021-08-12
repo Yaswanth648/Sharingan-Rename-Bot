@@ -1,21 +1,21 @@
 class Translation(object):
     START_TEXT = """<b>Hey! {}\nI'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail support!⚡</b>
 
-<b>Bot Maintained By: @Dlaize</b> \n 
+<b>Bot Maintained By: @ValT_Aio</b> \n 
 <b>Do /help for more Details ...</b>
 """
 
     RENAME_403_ERR = "What Are You Doing? Bruuh!!"
-    BANNED_USER_TEXT = "Sorry!! But Mr. Dlaize Banned You From Using This Service. That Means You Can't Run ME Now! \n \n Contact : @Dlaize For more Details.. " 
+    BANNED_USER_TEXT = "Sorry!! But Mr. Rakesh Banned You From Using This Service. That Means You Can't Run ME Now! \n \n Contact : @ValT_Aio For more Details.. " 
     ABS_TEXT = "What Are You Trying To Do, Mate?"
-    UPGRADE_TEXT = "CONTACT : Mr. @Dlaize"
+    UPGRADE_TEXT = "CONTACT : Mr. @ValT_Aio"
     DOWNLOAD_START = "<b>╭────── ⌊ 📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ⌉ \n│\n</b>"
     UPLOAD_START = "<b>╭────── ⌊ 📤 ᴜᴘʟᴏᴀᴅɪɴɢ ⌉ \n│\n</b>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry Do You Think! I'll Upload It?"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me SHARE > ⚡</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
-    NOT_AUTH_USER_TEXT = "CONTACT : <a href='https://telegram.me/dlaize'> ᴍʀ. ᴅʟᴀɪᴢᴇ</a>"
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact Mr. @Dlaize"
+    NOT_AUTH_USER_TEXT = "CONTACT : <a href='https://telegram.me/ValT_Aio'> ᴍʀ. ᴅʟᴀɪᴢᴇ</a>"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact Mr. @ValT_Aio"
     SAVED_CUSTOM_THUMB_NAIL = "<b>Thumbnail Saved ✅ This Is Permanent Until</b> ❌ /delthumb ❌"
     DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail Cleared Succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media Cleared Succesfully."
@@ -34,14 +34,14 @@ class Translation(object):
 ⚡ Set Custom Thumbnail
 ⚡ Convert Files into Video 
 
-📱 Suggestion & Feedback ➜ <a href="https://telegram.dog/dlaize"><b>Mr. Dlaize</b></a>
+📱 Suggestion & Feedback ➜ <a href="https://telegram.dog/ValT_Aio"><b>Mr. Dlaize</b></a>
     """
     HELP_USER = """🚨 Oh! You Need Help! Choose Available Commands below!
 ───────────────
 <b>⇢ Create Your Own Clone Bot</b>
-➜ <a href="https://www.heroku.com/deploy?template=https://github.com/dakshkohli23/Sharingan-Rename-Bot">Deploy 🚀</a>
+➜ <a href="https://www.heroku.com/deploy?template=https://github.com/Yaswanth648/Sharingan-Rename-Bot">Deploy 🚀</a>
 ───────────────
-<b>Made with Thunder ⚡ by : @Dlaize</b>
+<b>Made with Thunder ⚡ by : @ValT_Aio</b>
 """
     
     RENAME_HELP = """
