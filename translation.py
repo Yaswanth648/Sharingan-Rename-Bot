@@ -34,7 +34,7 @@ class Translation(object):
 ⚡ Set Custom Thumbnail
 ⚡ Convert Files into Video 
 
-📱 Suggestion & Feedback ➜ <a href="https://telegram.dog/ValT_Aio"><b>Mr. Dlaize</b></a>
+📱 Suggestion & Feedback ➜ <a href="https://telegram.dog/ValT_Aio"><b>Mr. Rakesh</b></a>
     """
     HELP_USER = """🚨 Oh! You Need Help! Choose Available Commands below!
 ───────────────
